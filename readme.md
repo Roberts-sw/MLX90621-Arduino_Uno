@@ -10,4 +10,6 @@ a bottleneck right away.
 Luckily my sensor is the D-type, so fewer calculations were needed.
 
 As bonuses I added a tested square-root routine and float-to-string
-converter with the project, using about 10kB of flash and 1kB of RAM.
+converter with the project, using about 10kB of flash and 1kB of SRAM,
+including a nice I2C-scanner and run-time choice of what to show from
+the sensor.
