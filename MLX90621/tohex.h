@@ -4,4 +4,4 @@
 #	define CCALL
 #endif
 
-CCALL char const *tohex(char ch);
+CCALL char const *tohex(unsigned char ch);
